@@ -1,0 +1,6 @@
+{
+  "name": "Resilience360 AI",
+  "description": "Unified Climate Resilience, Agriculture, and Emergency Intelligence System for Tamil Nadu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
